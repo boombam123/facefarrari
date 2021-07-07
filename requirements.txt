@@ -14,7 +14,7 @@ cycler
 datas
 decorator
 distlib
-dlib
+dlib-19.7.0
 face-detection
 face-recognition
 face-recognition-models
